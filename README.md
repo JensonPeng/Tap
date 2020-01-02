@@ -1,5 +1,6 @@
 # Tap
 測試裝置 IPhone 8 unity remote 5
+Unity版本 2019.2.0f1
 
 學習重點
 
